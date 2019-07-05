@@ -1,1 +1,1 @@
-# cache-query-data
+# Cakephp 3.x cache-query-data
